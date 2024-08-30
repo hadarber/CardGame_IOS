@@ -84,7 +84,7 @@ The `LocationManager` class handles location updates to determine the player's s
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cardGame.git
+    git clone https://github.com/hadarber/cardGame.git
     ```
 2. Open the project in Xcode.
 3. Build and run the project on your simulator or device.
