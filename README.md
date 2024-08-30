@@ -16,7 +16,7 @@ Welcome to the CardGame project! This iOS app is a fun card game where players c
 
 ## Video
 
-[Watch the demo video here]([link_to_video)](https://drive.google.com/file/d/1dY5sOUM_S5lpn6IycGZdvveAHdDBCo4a/view?usp=sharing)
+(https://drive.google.com/file/d/1dY5sOUM_S5lpn6IycGZdvveAHdDBCo4a/view?usp=sharing)
 
 ## Overview
 
