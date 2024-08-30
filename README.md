@@ -4,13 +4,13 @@ Welcome to the CardGame project! This iOS app is a fun card game where players c
 
 ## Screenshots
 
-![F3328FB6-118A-4F4A-A5F5-3EDBD61958D1](https://github.com/user-attachments/assets/bdfef915-c8f2-4aaa-85bd-f89cb5e945bd)
+<img src="https://github.com/user-attachments/assets/bdfef915-c8f2-4aaa-85bd-f89cb5e945bd" alt="Screenshot 1" width="300"/>
 
 
-![199E2C92-7F6C-4BFA-9CCC-9C454773AFAC](https://github.com/user-attachments/assets/042232da-a104-4149-bdcb-4387e8d68253)
+<img src="https://github.com/user-attachments/assets/042232da-a104-4149-bdcb-4387e8d68253" alt="Screenshot 2" width="300"/>
 
 
-![F0D9BD8E-A45C-4459-9114-E2A88AD3C4E9](https://github.com/user-attachments/assets/9c63c61d-b433-46e3-9d5d-74e268431040)
+<img src="https://github.com/user-attachments/assets/9c63c61d-b433-46e3-9d5d-74e268431040" alt="Screenshot 3" width="300"/>
 
 
 ## Video
