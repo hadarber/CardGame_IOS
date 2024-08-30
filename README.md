@@ -7,7 +7,10 @@ Welcome to the CardGame project! This iOS app is a fun card game where players c
 <img src="https://github.com/user-attachments/assets/bdfef915-c8f2-4aaa-85bd-f89cb5e945bd" alt="Screenshot 1" width="300"/>
 
 
+
 <img src="https://github.com/user-attachments/assets/042232da-a104-4149-bdcb-4387e8d68253" alt="Screenshot 2" width="300"/>
+
+
 
 
 <img src="https://github.com/user-attachments/assets/9c63c61d-b433-46e3-9d5d-74e268431040" alt="Screenshot 3" width="300"/>
